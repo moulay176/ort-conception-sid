@@ -22,7 +22,7 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 ---
 
-**Introduction au cours de Conception Système d'Informations Décisionnelles**
+# I. Introduction au cours de Conception Système d'Informations Décisionnelles
 
 ### Introduction
 
@@ -375,5 +375,160 @@ La qualité des données permet d'obtenir des résultats précis et fiables, en 
 ### Complétude des données :
 
 - Un médecin utilise un logiciel de gestion de base de données pour s'assurer de la complétude des données dans les fichiers patients
+
+---
+
+# II. Collecte et nettoyage de données
+
+---
+
+**Collecte et nettoyage de données**
+
+### Introduction
+
+- L'analyse de données est l'utilisation de techniques et de technologies pour collecter, nettoyer, examiner et modéliser des données pour en extraire des informations utiles et des connaissances.
+
+---
+
+**Collecte et nettoyage de données**
+
+### Introduction
+
+- La collecte et le nettoyage de données sont des étapes cruciales de l'analyse de données, car elles permettent d'obtenir des données de qualité et de les préparer pour l'analyse.
+
+---
+
+**Collecte et nettoyage de données**
+
+### Introduction
+
+- Les avantages de la collecte et du nettoyage de données pour l'analyse de données comprennent une meilleure qualité des données, une meilleure précision des résultats, une réduction des erreurs, etc.
+
+---
+
+**Collecte et nettoyage de données**
+
+### Introduction
+
+- Dans cette séance, nous allons apprendre les différentes méthodes pour collecter des données, les outils pour préparer les données pour l'analyse et les techniques pour filtrer et regrouper les données.
+
+---
+
+# Méthodes de collecte de données
+
+---
+
+**Méthodes de collecte de données**
+
+Les données peuvent provenir de différentes sources, comme les enquêtes, les sondages, les capteurs, les bases de données, les réseaux sociaux, etc.
+
+---
+
+**Méthodes de collecte de données**
+
+- Les enquêtes et les sondages sont des méthodes couramment utilisées pour collecter des données auprès de personnes. Ils peuvent être utilisés pour recueillir des informations démographiques, des opinions, des attitudes, etc.
+
+---
+
+**Méthodes de collecte de données**
+
+- Les capteurs sont des dispositifs qui mesurent des variables physiques, comme la température, la luminosité, le mouvement, etc. Ils peuvent être utilisés pour collecter des données en temps réel dans des environnements réels.
+
+---
+
+**Méthodes de collecte de données**
+
+- Les bases de données sont des systèmes qui stockent et organisent les données pour faciliter leur accès et leur utilisation. Elles peuvent contenir des données structurées (comme des chiffres, des dates, etc.) ou des données non structurées (comme du texte, des images, etc.).
+
+---
+
+**Méthodes de collecte de données**
+
+- Les réseaux sociaux sont des plateformes en ligne qui permettent aux utilisateurs de partager des contenus et d'interagir entre eux. Ils peuvent être utilisés pour collecter des données sur les comportements, les opinions, les intérêts, etc. des utilisateurs.
+
+---
+
+**Méthodes de collecte de données**
+
+- Dans la suite de cette séance, nous allons voir comment utiliser ces différentes méthodes pour collecter des données pour l'analyse.
+
+---
+
+# Outils pour préparer les données
+
+---
+
+**Outils pour préparer les données**
+
+- Les outils pour préparer les données pour l'analyse permettent de nettoyer, de filtrer, de transformer et de combiner les données pour les préparer à l'analyse.
+
+---
+
+**Outils pour préparer les données**
+
+- Les feuilles de calcul sont des outils couramment utilisés pour préparer les données pour l'analyse. Ils permettent de manipuler des données structurées (comme des chiffres, des dates, etc.) sous forme de tableaux, de formules, de graphiques, etc.
+
+---
+
+**Outils pour préparer les données**
+
+- Les logiciels de gestion de base de données sont des outils qui permettent de stocker, de gérer et de manipuler des données en utilisant des langages de requête (comme SQL). Ils permettent d'accéder rapidement aux données, d'exécuter des requêtes complexes et de produire des rapports et des visualisations.
+
+---
+
+**Outils pour préparer les données**
+
+- Les logiciels d'analyse de données (comme Excel, Tableau, etc.) sont des outils qui permettent de visualiser, de modéliser et d'analyser des données pour en extraire des informations utiles et des connaissances. Ils peuvent être utilisés pour effectuer des analyses descriptives, prédictives, spatiales, temporelles, etc.
+
+---
+
+# Techniques de filtrage et de regroupement de données
+
+---
+
+**Techniques de filtrage et de regroupement de données**
+
+- Les techniques de filtrage et de regroupement de données permettent de sélectionner les données pertinentes pour l'analyse, de les organiser et de les agréger selon des critères prédéfinis.
+- Les requêtes SQL sont des langages de requête qui permettent de filtrer et de regrouper les données contenues dans une base de données. Elles peuvent être utilisées pour sélectionner des colonnes, des lignes, des groupes, etc.
+
+---
+
+**Techniques de filtrage et de regroupement de données**
+
+### Exemples concrets
+
+- Utiliser une requête SQL pour sélectionner les données d'une base de données pour l'analyse. Par exemple, sélectionner les données d'une table "ventes" pour l'année 2021.
+
+---
+
+**Techniques de filtrage et de regroupement de données**
+
+### Exemples concrets
+
+- Utiliser une requête SQL pour regrouper les données d'une base de données selon des critères prédéfinis. Par exemple, regrouper les données de la table "ventes" par région et par produit pour obtenir le total des ventes par région et par produit.
+
+---
+
+**Techniques de filtrage et de regroupement de données**
+
+### Exemples concrets
+
+- Utiliser les filtres de données dans les feuilles de calcul pour sélectionner les données pertinentes pour l'analyse. Par exemple, filtrer les données d'une feuille de calcul pour afficher uniquement les lignes qui ont une valeur supérieure à un seuil prédéfini.
+
+---
+
+**Techniques de filtrage et de regroupement de données**
+
+### Exemples concrets
+
+- Utiliser les fonctions de regroupement de données dans les feuilles de calcul pour agréger les données selon des critères prédéfinis. Par exemple, utiliser la fonction "somme" pour calculer le total des ventes pour chaque région dans une feuille de calcul.
+
+---
+
+**Techniques de filtrage et de regroupement de données**
+
+### Exemples concrets
+
+- En utilisant ces techniques, vous pouvez facilement sélectionner, organiser et agréger les données pour l'analyse, ce qui vous permet d'obtenir des résultats précis et fiables.
 
 ---

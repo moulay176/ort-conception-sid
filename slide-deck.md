@@ -103,3 +103,145 @@ La collecte et l'analyse de données permettent d'améliorer la qualité des dé
 - Un fabricant utilise l'analyse de données pour optimiser les processus de production, en identifiant les points de contrôle clés et en réduisant les temps d'arrêt.
 
 ---
+
+# Exemples de sources de données disponibles
+
+---
+
+**Sources de données disponibles**
+
+### Introduction
+
+Les données peuvent être collectées à partir de différentes sources, selon les besoins et les objectifs de l'analyse. Les sources de données les plus courantes sont les bases de données, les capteurs, les réseaux sociaux, les sites de commerce électronique, etc.
+
+---
+
+**Sources de données disponibles**
+
+### Exemple 1
+
+- Les bases de données sont des collections organisées d'informations, généralement stockées dans des logiciels de gestion de base de données (par exemple, SQL, Oracle, MySQL)
+
+---
+
+**Sources de données disponibles**
+
+### Exemple 2
+
+- Les capteurs sont des dispositifs qui permettent de collecter des données environnementales (par exemple, la température, la luminosité, le bruit) ou des données de consommation (par exemple, les articles achetés, le montant dépensé, la date et l'heure de l'achat)
+
+---
+
+**Sources de données disponibles**
+
+### Exemple 3
+
+- Les réseaux sociaux sont des plateformes en ligne qui permettent aux utilisateurs de partager des informations et des opinions (par exemple, les publications, les commentaires, les likes)
+
+---
+
+**Sources de données disponibles**
+
+### Exemple 4
+
+- Les sites de commerce électronique sont des plateformes en ligne qui permettent aux utilisateurs d'acheter et de vendre des produits ou des services (par exemple, les articles achetés, le montant dépensé, la date et l'heure de l'achat)
+
+---
+
+**Sources de données disponibles**
+
+### Exemples concrets
+
+##### Bases de données:
+
+- Une entreprise utilise une base de données pour stocker les informations sur les clients (par exemple, nom, adresse, numéro de téléphone, date de naissance)
+
+---
+
+### Exemples concrets
+
+##### Bases de données:
+
+- Une association utilise une base de données pour stocker les informations sur les adhérents (par exemple, nom, adresse, numéro de téléphone, date d'adhésion)
+
+---
+
+### Exemples concrets
+
+##### Bases de données:
+
+- Une école utilise une base de données pour stocker les informations sur les élèves (par exemple, nom, adresse, date de naissance, notes)
+
+---
+
+### Exemples concrets
+
+#### Capteurs
+
+- Un centre commercial utilise des capteurs pour mesurer la température et l'humidité dans les magasins, afin d'optimiser le confort des clients
+
+---
+
+### Exemples concrets
+
+#### Capteurs
+
+- Un fabricant utilise des capteurs pour mesurer la vitesse de production, la qualité des produits, les défauts, afin d'optimiser les processus de production
+
+---
+
+### Exemples concrets
+
+#### Capteurs
+
+- Un restaurant utilise des capteurs pour mesurer le niveau de bruit, afin de respecter les normes environnementales et de garantir le confort des clients
+
+---
+
+### Exemples concrets
+
+#### Réseaux sociaux
+
+- Une marque de cosmétiques utilise les réseaux sociaux pour collecter les avis et les suggestions des clients, afin d'améliorer la qualité de ses produits
+
+---
+
+### Exemples concrets
+
+#### Réseaux sociaux
+
+- Une entreprise de téléphonie utilise les réseaux sociaux pour collecter les avis et les suggestions des clients, afin d'améliorer la qualité de ses services
+
+---
+
+### Exemples concrets
+
+#### Réseaux sociaux
+
+- Un candidat politique utilise les réseaux sociaux pour collecter les opinions et les préférences des électeurs, afin de cibler les messages de sa campagne
+
+---
+
+### Exemples concrets
+
+#### Sites de commerce électronique
+
+- Un site de vente de vêtements utilise les données de consommation pour identifier les articles les plus populaires auprès des clients, et pour prédire les ventes pour les mois à venir
+
+---
+
+### Exemples concrets
+
+#### Sites de commerce électronique
+
+- Un site de réservation de voyage utilise les données de consommation pour identifier les destinations les plus populaires auprès des clients, et pour prédire la demande pour les mois à venir
+
+---
+
+### Exemples concrets
+
+#### Sites de commerce électronique
+
+- Un site de vente de livres utilise les données de consommation pour identifier les auteurs les plus populaires auprès des clients, et pour prédire les ventes pour les mois à venir.
+
+---

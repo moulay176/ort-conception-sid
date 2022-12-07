@@ -1,12 +1,12 @@
 # Conception SID
 
-# Séance 1 : Introduction aux systèmes d'informations décisionnelles
+## Séance 1 : Introduction aux systèmes d'informations décisionnelles
 
 Définition de la collecte et de l'analyse de données
 Les différentes sources de données disponibles
 La gestion de la qualité des données
 
-# Séance 2 : Collecte et nettoyage de données
+## Séance 2 : Collecte et nettoyage de données
 
 Les différentes méthodes pour collecter les données
 Les outils pour préparer les données pour l'analyse (feuilles de calcul, logiciels de gestion de base de données)

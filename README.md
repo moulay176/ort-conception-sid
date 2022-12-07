@@ -146,6 +146,51 @@ Un médecin utilise un logiciel de gestion de base de données pour s'assurer de
 - Comment construire des tableaux et des graphiques pour représenter les données de manière intuitive
 - Exemples concrets d'application de ces techniques à des jeux de données réels
 
+### Diapositive 1: Les différents types d'analyses descriptives
+
+- Les analyses descriptives sont des techniques qui permettent de summariser et de visualiser les données pour en faciliter l'interprétation.
+- Les différents types d'analyses descriptives incluent les moyennes, les écarts-types, les corrélations, les fréquences, les modalités, les percentiles, etc.
+- Les moyennes permettent de mesurer la tendance centrale d'un jeu de données. Elles peuvent être calculées pour des données numériques (comme les salaires, les prix, etc.) ou pour des données qualitatives (comme les opinions, les préférences, etc.).
+- Les écarts-types permettent de mesurer la variabilité d'un jeu de données. Ils permettent de savoir si les données sont dispersées ou regroupées autour de la moyenne.
+- Les corrélations permettent de mesurer la relation entre deux variables d'un jeu de données. Elles permettent de savoir si une variable est influencée par l'autre, ou si elles varient de manière indépendante. Les corrélations peuvent être calculées pour des données numériques (comme les salaires et les prix) ou pour des données qualitatives (comme les opinions et les préférences).
+- Les fréquences permettent de mesurer la répartition d'une variable dans un jeu de données. Elles permettent de savoir combien de fois chaque valeur d'une variable apparaît dans les données. Les fréquences peuvent être calculées pour des données numériques (comme les salaires) ou pour des données qualitatives (comme les opinions).
+- Les modalités permettent de mesurer la valeur la plus fréquente d'une variable dans un jeu de données. Elles permettent de savoir quelle valeur d'une variable apparaît le plus souvent dans les données. Les modalités peuvent être calculées pour des données numériques (comme les salaires) ou pour des données qualitatives (comme les opinions).
+- Les percentiles permettent de mesurer la répartition d'une variable dans un jeu de données. Ils permettent de savoir où se situe chaque valeur d'une variable par rapport à l'ensemble des données. Les percentiles peuvent être calculés pour des données numériques (comme les salaires) ou pour des données qualitatives (comme les opinions).
+
+Exemples concrets:
+
+- Moyennes
+  Pour mesurer la tendance centrale d'un jeu de données, vous pouvez utiliser les moyennes. Par exemple, si vous avez un jeu de données contenant les salaires de 100 employés d'une entreprise, vous pouvez calculer la moyenne des salaires pour savoir quel est le salaire moyen des employés. Pour ce faire, vous devez additionner les salaires de tous les employés et diviser le résultat par le nombre d'employés (100 dans notre exemple). Si la moyenne des salaires est de 50 000 dollars, cela signifie que la plupart des employés gagnent environ 50 000 dollars.
+
+  Il est important de noter que la moyenne n'est pas toujours une bonne mesure de la tendance centrale d'un jeu de données. Par exemple, si les salaires des employés de l'entreprise varient beaucoup (certains gagnent 30 000 dollars, d'autres gagnent 70 000 dollars, etc.), la moyenne peut ne pas refléter la réalité des salaires. Dans ce cas, vous pouvez utiliser d'autres mesures de tendance centrale, comme la médiane (la valeur qui se trouve au milieu des données) ou le mode (la valeur la plus fréquente dans les données).
+
+  En résumé, pour mesurer la tendance centrale d'un jeu de données, vous pouvez utiliser les moyennes. Pour ce faire, vous devez additionner les valeurs du jeu de données et diviser le résultat par le nombre de valeurs. Cette mesure vous permet de savoir quelle est la valeur moyenne des données. Cependant, la moyenne n'est pas toujours la meilleure mesure de la tendance centrale, et vous pouvez utiliser d'autres mesures, comme la médiane ou le mode, selon les caractéristiques de vos données.
+
+- Ecart-type
+  Pour mesurer la variabilité d'un jeu de données, vous pouvez utiliser les écarts-types. Par exemple, si vous avez un jeu de données contenant les salaires de 100 employés d'une entreprise, vous pouvez calculer l'écart-type des salaires pour savoir à quel point ils varient. Pour ce faire, vous devez calculer la moyenne des salaires, puis calculer la différence entre chaque salaire et la moyenne, puis additionner ces différences au carré, puis diviser le résultat par le nombre d'employés (100 dans notre exemple). Si l'écart-type des salaires est de 10 000 dollars, cela signifie que la plupart des employés gagnent environ 10 000 dollars de plus ou de moins que la moyenne des salaires.
+
+  Il est important de noter que l'écart-type n'est pas toujours une bonne mesure de la variabilité d'un jeu de données. Par exemple, si les salaires des employés de l'entreprise varient beaucoup (certains gagnent 30 000 dollars, d'autres gagnent 70 000 dollars, etc.), l'écart-type peut être élevé, même si la plupart des salaires se situent autour de la moyenne. Dans ce cas, vous pouvez utiliser d'autres mesures de variabilité, comme les quartiles (les valeurs qui séparent les données en quatre parties égales) ou les intervalles de confiance (les intervalles de valeurs où se situent la plupart des données avec une certaine probabilité).
+
+  En résumé, pour mesurer la variabilité d'un jeu de données, vous pouvez utiliser les écarts-types. Pour ce faire, vous devez calculer la moyenne des données, puis calculer la différence entre chaque valeur et la moyenne, puis additionner ces différences au carré, puis diviser le résultat par le nombre de valeurs. Cette mesure vous permet de savoir à quel point les données varient par rapport à la moyenne. Cependant, l'écart-type n'est pas toujours la meilleure mesure de la variabilité, et vous pouvez utiliser d'autres mesures, comme les quartiles ou les intervalles de confiance, selon les car
+
+### Diapositive 2: Construction de tableaux et de graphiques
+
+Expliquer l'importance de représenter les données de manière intuitive pour faciliter leur compréhension et leur interprétation.
+Montrer comment construire des tableaux et des graphiques pour représenter les données, en mettant l'accent sur le choix des axes, des échelles, des couleurs, etc.
+Montrer des exemples concrets de tableaux et de graphiques réalisés avec les différentes techniques vues dans la diapositive précédente.
+
+La visualisation des données est un outil puissant pour comprendre et interpréter les données de manière intuitive. En utilisant des tableaux et des graphiques, vous pouvez représenter les données de manière à mettre en évidence les tendances, les relations, les comparaisons, etc. Pour ce faire, il est important de choisir les axes et les échelles adéquates, de sélectionner les couleurs et les légendes appropriées, etc.
+
+Pour construire des tableaux et des graphiques, vous pouvez utiliser des outils logiciels, comme les feuilles de calcul (comme Microsoft Excel ou Google Sheets), les logiciels de statistiques (comme R ou SAS), les logiciels de visualisation (comme Tableau ou D3.js), etc. Ces outils vous permettent de créer des tableaux et des graphiques rapidement et facilement, en utilisant des modèles prédéfinis ou en personnalisant les paramètres selon vos besoins.
+
+Voici quelques exemples de tableaux et de graphiques qui peuvent être utilisés pour représenter les données :
+
+- Un histogramme peut être utilisé pour représenter la répartition des valeurs d'une variable quantitative (par exemple, les salaires des employés). Pour ce faire, vous devez déterminer les classes de valeurs (par exemple, 0-10 000 dollars, 10 000-20 000 dollars, etc.), puis compter le nombre de valeurs qui se situent dans chaque classe, et enfin tracer les barres en fonction des classes et des effectifs.
+- Un diagramme en barres peut être utilisé pour comparer les valeurs d'une variable quantitative entre plusieurs groupes (par exemple, les salaires des employés selon leur genre). Pour ce faire, vous devez sélectionner les groupes que vous souhaitez comparer (par exemple, les hommes et les femmes), puis calculer la valeur moyenne pour chaque groupe, et enfin tracer les barres en fonction des groupes et des valeurs moyennes.
+- Un diagramme en camembert peut être utilisé pour représenter la répartition des valeurs d'une variable qualitative (par exemple, les départements d'une entreprise). Pour ce faire, vous devez compter le nombre d'éléments pour chaque valeur de la variable, et enfin tracer les parts de chaque valeur en fonction de l'angle qu'elles occupent dans le cercle.
+
+En résumé, la visualisation des données est un outil important pour comprendre et interpréter les données de manière intuitive. Vous pouvez utiliser des tableaux et des graphiques pour mettre en évidence les tendances, les relations, les comparaisons, etc. Pour ce faire, il est important de choisir les axes et les
+
 ## Séance 4 : Utilisation de logiciels de statistiques
 
 - Introduction aux logiciels de statistiques (par exemple, R, SAS, SPSS)

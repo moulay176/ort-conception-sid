@@ -87,18 +87,44 @@ La collecte et l'analyse de données permettent d'améliorer la qualité des dé
 ### Exemples concrets
 
 - Une entreprise de vente en ligne utilise des capteurs pour collecter les données de consommation des clients (par exemple, les articles achetés, le montant dépensé, la date et l'heure de l'achat)
+
+---
+
+**Collecte de données**
+
+### Exemples concrets
+
 - Un restaurant utilise une application mobile pour collecter les données de satisfaction des clients (par exemple, la note donnée, les commentaires, les suggestions)
+
+---
+
+**Collecte de données**
+
+### Exemples concrets
+
 - Un fabricant utilise des capteurs pour collecter les données de production (par exemple, la vitesse de production, la qualité des produits, les défauts)
 
 ---
 
-**Collecte et analyse de données**
+**Analyse de données**
 
-### Analyse de données :
+### Exemples concrets :
 
 - Une entreprise de vente en ligne utilise l'analyse de données pour identifier les produits les plus populaires auprès des clients, et pour prédire les ventes pour les mois à venir
 
+---
+
+**Analyse de données**
+
+### Exemples concrets :
+
 - Un restaurant utilise l'analyse de données pour mesurer la satisfaction des clients, et pour identifier les éléments qui influencent positivement ou négativement leur expérience
+
+---
+
+**Analyse de données**
+
+### Exemples concrets :
 
 - Un fabricant utilise l'analyse de données pour optimiser les processus de production, en identifiant les points de contrôle clés et en réduisant les temps d'arrêt.
 
@@ -158,6 +184,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 
 ---
 
+**Sources de données disponibles**
+
 ### Exemples concrets
 
 ##### Bases de données:
@@ -165,6 +193,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 - Une association utilise une base de données pour stocker les informations sur les adhérents (par exemple, nom, adresse, numéro de téléphone, date d'adhésion)
 
 ---
+
+**Sources de données disponibles**
 
 ### Exemples concrets
 
@@ -174,6 +204,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 
 ---
 
+**Sources de données disponibles**
+
 ### Exemples concrets
 
 #### Capteurs
@@ -181,6 +213,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 - Un centre commercial utilise des capteurs pour mesurer la température et l'humidité dans les magasins, afin d'optimiser le confort des clients
 
 ---
+
+**Sources de données disponibles**
 
 ### Exemples concrets
 
@@ -190,6 +224,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 
 ---
 
+**Sources de données disponibles**
+
 ### Exemples concrets
 
 #### Capteurs
@@ -197,6 +233,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 - Un restaurant utilise des capteurs pour mesurer le niveau de bruit, afin de respecter les normes environnementales et de garantir le confort des clients
 
 ---
+
+**Sources de données disponibles**
 
 ### Exemples concrets
 
@@ -206,6 +244,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 
 ---
 
+**Sources de données disponibles**
+
 ### Exemples concrets
 
 #### Réseaux sociaux
@@ -213,6 +253,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 - Une entreprise de téléphonie utilise les réseaux sociaux pour collecter les avis et les suggestions des clients, afin d'améliorer la qualité de ses services
 
 ---
+
+**Sources de données disponibles**
 
 ### Exemples concrets
 
@@ -222,6 +264,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 
 ---
 
+**Sources de données disponibles**
+
 ### Exemples concrets
 
 #### Sites de commerce électronique
@@ -229,6 +273,8 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 - Un site de vente de vêtements utilise les données de consommation pour identifier les articles les plus populaires auprès des clients, et pour prédire les ventes pour les mois à venir
 
 ---
+
+**Sources de données disponibles**
 
 ### Exemples concrets
 
@@ -238,10 +284,96 @@ Les données peuvent être collectées à partir de différentes sources, selon 
 
 ---
 
+**Sources de données disponibles**
+
 ### Exemples concrets
 
 #### Sites de commerce électronique
 
 - Un site de vente de livres utilise les données de consommation pour identifier les auteurs les plus populaires auprès des clients, et pour prédire les ventes pour les mois à venir.
+
+---
+
+# Importance de la gestion de la qualité des données
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+### Introduction
+
+La qualité des données est un élément crucial pour la réussite des analyses de données. Une gestion rigoureuse de la qualité des données permet d'éliminer les erreurs, de s'assurer de la complétude des données, et d'obtenir des résultats précis et fiables.
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+### Exemples
+
+- L'élimination des données erronées permet d'éviter les biais dans les analyses, en écartant les données qui ne sont pas fiables ou qui ne respectent pas les critères de qualité définis
+
+- La complétude des données permet d'éviter les lacunes dans les analyses, en s'assurant que toutes les données nécessaires sont disponibles et en bon état.
+
+La qualité des données permet d'obtenir des résultats précis et fiables, en utilisant des données de qualité pour effectuer les calculs et les prévisions.
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+**Exemples concrets**
+
+### Élimination des données erronées :
+
+- Une entreprise utilise un logiciel de gestion de base de données pour éliminer les données erronées dans les fichiers clients (par exemple, les numéros de téléphone erronés, les adresses non valides, les noms mal orthographiés)
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+**Exemples concrets**
+
+### Élimination des données erronées :
+
+- Un fabricant utilise un logiciel de gestion de base de données pour éliminer les données erronées dans les fichiers produits (par exemple, les codes-barres erronés, les descriptions erronées, les prix non valides)
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+**Exemples concrets**
+
+### Élimination des données erronées :
+
+- Un médecin utilise un logiciel de gestion de base de données pour éliminer les données erronées dans les fichiers patients (par exemple, les allergies mal enregistrées, les traitements mal prescrits, les dates de naissance erronées)
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+**Exemples concrets**
+
+### Complétude des données :
+
+- Une entreprise utilise un logiciel de gestion de base de données pour s'assurer de la complétude des données dans les fichiers clients (par exemple, les numéros de téléphone, les adresses, les noms)
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+**Exemples concrets**
+
+### Complétude des données :
+
+- Un fabricant utilise un logiciel de gestion de base de données pour s'assurer de la complétude des données dans les fichiers produits (par exemple, les codes-barres, les descriptions, les prix)
+
+---
+
+**Importance de la gestion de la qualité des données**
+
+**Exemples concrets**
+
+### Complétude des données :
+
+- Un médecin utilise un logiciel de gestion de base de données pour s'assurer de la complétude des données dans les fichiers patients
 
 ---

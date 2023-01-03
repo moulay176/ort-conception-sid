@@ -26,11 +26,11 @@ def units
   end
 end
 
-units
+# units
 # skus
 
 # What are the daily sales totals for each of the top 2 products?
-data = CSV.read('dataset-2.csv', headers: true)
+data = CSV.read('dataset-1.csv', headers: true)
 daily_sales = {}
 data.each do |row|
     date = row['date']
@@ -39,10 +39,19 @@ data.each do |row|
     wday = Date.strptime(date, "%m-%d-%Y").wday
     if daily_sales[sku]
         daily_sales[sku][wday] += units
+        daily_sales[sku][7] += units
     else
-        daily_sales[sku] = [0, 0, 0, 0, 0, 0, 0]
+        daily_sales[sku] = [0, 0, 0, 0, 0, 0, 0, units]
         daily_sales[sku][wday] = units
     end
 end
 
-binding.pry
+# order the sales by total units sold
+daily_sales = daily_sales.sort_by { |sku, sales| sales[7] }.reverse
+
+# print the results
+
+puts "sku,sun,mon,tue,wed,thu,fri,sat,total"
+daily_sales.each do |sku, sales|
+  puts "#{sku},#{sales.join(',')}"
+end

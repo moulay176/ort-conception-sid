@@ -14,9 +14,9 @@ Pour chacun des datasets voici les questions auxquels je vous propose de répond
 Dans tous les cas, vous devez fournir un fichier csv contenant les résultats sous ce format.
 
 ```csv
-sku,sun,mon,tue,wed,thu,fri,sat
-25CB99,0,0,0,0,0,0,0
-87A4E4,0,0,0,0,0,0,0
+sku,sun,mon,tue,wed,thu,fri,sat,total
+25CB99,10,20,30,40,50,60,70,280
+87A4E4,1,2,3,4,5,6,7,28
 ```
 
 ### dataset-3

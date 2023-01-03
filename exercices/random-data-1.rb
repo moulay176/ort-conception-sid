@@ -1,4 +1,6 @@
 require 'securerandom'
+require 'csv'
+require 'pry'
 
 def good
   ["88f4fbd642b69fac", "1cc77eae72", "34b56ab7"].sample
@@ -26,3 +28,21 @@ end
 
 units
 # skus
+
+# What are the daily sales totals for each of the top 2 products?
+data = CSV.read('dataset-2.csv', headers: true)
+daily_sales = {}
+data.each do |row|
+    date = row['date']
+    sku = row['sku']
+    units = row['units-sold'].to_i
+    wday = Date.strptime(date, "%m-%d-%Y").wday
+    if daily_sales[sku]
+        daily_sales[sku][wday] += units
+    else
+        daily_sales[sku] = [0, 0, 0, 0, 0, 0, 0]
+        daily_sales[sku][wday] = units
+    end
+end
+
+binding.pry

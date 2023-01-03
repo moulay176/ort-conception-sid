@@ -8,6 +8,17 @@ Pour chacun des datasets voici les questions auxquels je vous propose de répond
 
 - Quelles sont les totaux des ventes journalières de chacun des 2 produits les plus vendus ?
 
+1. Faites l'analyse des données en utilisant les fonctionnalités de Google Sheet.
+2. Cette fois-ci, faites l'analyse en utilisant le langage de programmation dans lequel vous êtes le plus à l'aise.
+
+Dans tous les cas, vous devez fournir un fichier csv contenant les résultats sous ce format.
+
+```csv
+sku,sun,mon,tue,wed,thu,fri,sat
+25CB99,0,0,0,0,0,0,0
+87A4E4,0,0,0,0,0,0,0
+```
+
 ### dataset-3
 
 - Quels sont les 2 produits que les femmes achètent le plus le mercredi ?
